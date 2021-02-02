@@ -20,6 +20,6 @@
   <p align='center'>
 <a href="https://dev.to/rshriharripriya"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/rshriharripriya"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_a_perfect_disaster_"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/instagram.png?raw=truee"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rshriharripriya/"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/instagram.png?raw=truee"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rshriharripriya/"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/linkedin.png?raw=true"></a>
 </p>

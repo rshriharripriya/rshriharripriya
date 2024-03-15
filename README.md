@@ -1,4 +1,4 @@
-<b> <h1 align='center'>Welcome to my profile </h1></b> <br>
+<b> <h1 align='center'>✨Welcome to my profile✨</h1></b> <br>
 
 <p align='justify'>
 I'm Shri Harri Priya Ramesh. <br/>
@@ -10,7 +10,7 @@ I'm driven to continuously learn, collaborate, and make an impact through techno
 
  </p>
 
-<b> <h2 align='center'> About me </h2>  </b> 
+<b> <h2> 👩🏻‍💻 About me </h2>  </b> 
 
 ```python
 Shri_Harri_Priya_Ramesh = {
@@ -33,16 +33,19 @@ Shri_Harri_Priya_Ramesh = {
 
 }
 ```
+<b> <h2> 🏆 Github trophies</h2>  </b> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rshriharripriya&rank=-C,-?&margin-w=15&margin-h=15
+)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
-<b> <h2 align='center'>Want to collaborate?</h2>  </b> 
+<b> <h2>  🔥 Github Streak </h2>  </b> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rshriharripriya)](https://git.io/streak-stats)
 
-  <p align='center'>
+<b> <h2 >Want to collaborate?</h2>  </b> 
+
   <a href="https://www.linkedin.com/in/rshriharripriya/"><img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;
 <a href="https://rshriharripriya.vercel.app/"><img width="48" height="48" src="https://img.icons8.com/ios/50/globe--v1.png" alt="globe--v1"/></a>&nbsp;&nbsp;
 <a href="mailto:rshriharripriya@outlook.com"><img width="48" height="48" src="https://img.icons8.com/ios/50/mail.png" alt="mail"/></a>&nbsp;&nbsp;
 
-</p>
 
 
 

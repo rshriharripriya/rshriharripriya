@@ -1,25 +1,48 @@
 <b> <h1 align='center'>Welcome to my profile </h1></b> <br>
-<h3> Hey guys ,</h3>
-<h3>I'm Shri Harri Priya Ramesh from Chennai. I'm a novice web dev</h3> 
-<h3>welcome to my code stash ;)</h3><br>
 
-<b> <h2 align='center'> Ask me about </h2>  </b> 
+<p align='justify'>
+I'm Shri Harri Priya Ramesh. <br/>
+I am an aspiring software developer brimming with passion for coding and creating technology-driven solutions! Skilled in Python, JavaScript, Java, and MySQL, I have experience in full-stack development and machine learning. <br/>
  
-  <p align='center'>
-<a> <img height="100" width="100" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/django.png?raw=true"></a>&nbsp;&nbsp;
-<a> <img height="100" width="100" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/Google-Flutter-logo.png?raw=true"></a>&nbsp;&nbsp;
-  <a> <img height="105" width="140" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/Picture1.png?raw=true"></a>&nbsp;&nbsp;
-    <a> <img height="100" width="100" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/cpp_logo.png?raw=true"></a>&nbsp;&nbsp;
-  <a> <img height="100" width="100" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/python.png?raw=true"></a>&nbsp;&nbsp;
-    <a> <img height="100" width="100" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/js%20logo.png?raw=true"></a>&nbsp;&nbsp;
+I am pursuing a master's degree in information technology at Arizona State University, where I aim to enhance my technical abilities and learn from experienced mentors. I have a bachelor's degree in Computer Science from Sri Sai Ram Institute of Technology. <br/>
 
-</p>
+I'm driven to continuously learn, collaborate, and make an impact through technology. Now I'm seeking a 2024 software engineering internship, so let's make some magic happen!
+
+ </p>
+
+<b> <h2 align='center'> About me </h2>  </b> 
+
+```python
+Shri_Harri_Priya_Ramesh = {
+
+    "Pronouns": ["She", "Her"],
+
+    "Data_Science": ["PyTorch", "Tensorflow", "Pyspark", "Karas", "Pandas", "NumPy", "YOLO", "Bokeh", "OpenCV"],
+
+    "Full_stack": ["ReactJs", "NextJs", "Tailwind", "Threejs", "Django", "Flask", "HTML", "CSS"],
+
+    "Database": ["SQL", "PL/SQL", "mySQL", "SQLite", "Microsoft SQL Server", "Oracle", "MongoDB"],
+    
+    "Languages": ["Python", "C", "C++", "Javascript", "Typescript", "Java", "Scala"],
+
+    "Tools_and_Technologies": ["Git", "Linux", "Wireshark", "Docker", "Tableau", "Apache Spark"],
+
+    "Cloud_Server": ["AWS", "Google Cloud"],
+
+    "UI_UX": ["Figma", "Blender", "Adobe XD"]
+
+}
+```
+
 <br>
-<b> <h2 align='center'> Also follow me on </h2>  </b> 
- 
+<b> <h2 align='center'>Want to collaborate?</h2>  </b> 
+
   <p align='center'>
-<a href="https://dev.to/rshriharripriya"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rshriharripriya"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rshriharripriya/"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/instagram.png?raw=truee"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rshriharripriya/"><img height="30" src="https://github.com/rshriharripriya/rshriharripriya/blob/master/icon/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/rshriharripriya/"><img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="https://rshriharripriya.vercel.app/"><img width="48" height="48" src="https://img.icons8.com/ios/50/globe--v1.png" alt="globe--v1"/></a>&nbsp;&nbsp;
+<a href="mailto:rshriharripriya@outlook.com"><img width="48" height="48" src="https://img.icons8.com/ios/50/mail.png" alt="mail"/></a>&nbsp;&nbsp;
+
 </p>
+
+
+

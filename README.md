@@ -37,9 +37,6 @@ Shri_Harri_Priya_Ramesh = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=rshriharripriya&rank=-C,-?&margin-w=15&margin-h=15
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<b> <h2>  🔥 Github Streak </h2>  </b> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rshriharripriya)](https://git.io/streak-stats)
-
 <b> <h2 >Want to collaborate?</h2>  </b> 
 
   <a href="https://www.linkedin.com/in/rshriharripriya/"><img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;

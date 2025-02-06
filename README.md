@@ -2,11 +2,11 @@
 
 <p align='justify'>
 I'm Shri Harri Priya Ramesh. <br/>
-I am an aspiring software developer brimming with passion for coding and creating technology-driven solutions! Skilled in Python, JavaScript, Java, and MySQL, I have experience in full-stack development and machine learning. <br/>
+I am an aspiring software developer brimming with a passion for coding and creating technology-driven solutions! Skilled in Python, JavaScript, Java, and MySQL, I have experience in full-stack development and machine learning. <br/>
  
 I am pursuing a master's degree in information technology at Arizona State University, where I aim to enhance my technical abilities and learn from experienced mentors. I have a bachelor's degree in Computer Science from Sri Sai Ram Institute of Technology. <br/>
 
-I'm driven to continuously learn, collaborate, and make an impact through technology. Now I'm seeking a 2024 software engineering internship, so let's make some magic happen!
+I'm driven to continuously learn, collaborate, and make an impact through technology. Now, I'm seeking a 2024 software engineering internship, so let's make some magic happen!
 
  </p>
 
@@ -17,11 +17,11 @@ Shri_Harri_Priya_Ramesh = {
 
     "Pronouns": ["She", "Her"],
 
-    "Data_Science": ["PyTorch", "Tensorflow", "Pyspark", "Karas", "Pandas", "NumPy", "YOLO", "Bokeh", "OpenCV"],
+    "Data_Science": ["PyTorch", "Tensorflow", "Pyspark", "Keras", "Pandas", "NumPy", "YOLO", "Bokeh", "OpenCV"],
 
     "Full_stack": ["ReactJs", "NextJs", "Tailwind", "Threejs", "Django", "Flask", "HTML", "CSS"],
 
-    "Database": ["SQL", "PL/SQL", "mySQL", "SQLite", "Microsoft SQL Server", "Oracle", "MongoDB"],
+    "Database": ["SQL", "PL/SQL", "MySQL", "SQLite", "Microsoft SQL Server", "Oracle", "MongoDB"],
     
     "Languages": ["Python", "C", "C++", "Javascript", "Typescript", "Java", "Scala"],
 
